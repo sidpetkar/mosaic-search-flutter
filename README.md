@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Desktop - 1](https://github.com/user-attachments/assets/9f94936e-9351-4b78-8c54-b4d66de70017)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
